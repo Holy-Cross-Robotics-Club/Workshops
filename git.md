@@ -27,3 +27,7 @@ How to create a git branch?
 
 How to check what branch you are in?
 `git checkout BRANCH-NAME`
+
+## Git Status
+What changes have I made? How does git see my changes
+`git status`
